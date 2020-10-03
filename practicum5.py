@@ -1,4 +1,5 @@
 # isTussen applicatie Ali Sultan Practicum 5:
+# https://github.com/irri-ali/Practica
 # Deze app vraagt om input van gebruiker: hartslag, temperatuur en onder en bovendruk. Gemiddeld genomen heeft een
 # gezond persoonde volgende waarden:hartslag tussen 55 en 90 slagen per minuut, lichaamstemperatuur tussen 36.3 en 37.5
 # graden Celsius, bovendruk tussen 100 en 140 mm Hg. Grenzen doen mee.
