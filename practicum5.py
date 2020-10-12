@@ -7,22 +7,22 @@ import sys
 
 
 # Eerst de functie istussen
-def istussen(hartSlag, temperaTuur, bovenDruk):
-    if 90 >= hartSlag >= 55:
+def istussen(hartslag, temperatuur, bovendruk):
+    if 90 >= hartslag >= 55:
         resulta = "Hartslag is goed."
-    elif 90 < hartSlag:
+    elif 90 < hartslag:
         resulta = "Uw hartslag is te hoog."
     else:
         resulta = "Uw hartslag is te laag"
-    if 37.5 >= temperaTuur >= 36.3:
+    if 37.5 >= temperatuur >= 36.3:
         resultb = "Uw temperatuur is goed."
-    elif 37.5 < temperaTuur:
+    elif 37.5 < temperatuur:
         resultb = "Uw temperatuur it te hoog. "
     else:
         resultb = "Uw temperatuur is te laag."
-    if 140 >= bovenDruk >= 100:
+    if 140 >= bovendruk >= 100:
         resultc = "Uw bovendruk is goed."
-    elif 140 < bovenDruk:
+    elif 140 < bovendruk:
         resultc = "Uw bovendruk is te hoog."
     else:
         resultc = "Uw bovendruk is te laag"
